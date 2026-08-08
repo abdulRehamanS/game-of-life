@@ -1,7 +1,7 @@
 pipeline{
 
 
-    agent { label 'nameoflable'}
+    agent { label 'JAVA8'}
 
     stages{
 
