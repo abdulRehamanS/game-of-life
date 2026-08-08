@@ -9,7 +9,7 @@ pipeline {
 
                 // Git checkout
                 git branch: 'sprint1_develop',
-                    url: 'https://github.com/mailrajesshre/game-of-life.git'
+                    url: 'https://github.com/abdulRehamanS/game-of-life.git'
             }
         }
 
